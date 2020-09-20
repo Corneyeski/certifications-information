@@ -1,0 +1,7 @@
+DESCRIPTION
+============
+Official curse of Oracle in PUE school to learn the features of Java 8 and practise for the official exam of Oracle, done in the school
+
+TIME
+============
+30 hours in a week.

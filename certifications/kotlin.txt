@@ -1,0 +1,16 @@
+DESCRIPTION
+============
+Bootcamp designed to learn the basics about Kotlin for applying it to pure Java applications, Spring applications and Android apps.
+
+REPOSITORIES
+============
+1- https://github.com/Corneyeski/CursoKotlin
+2- https://github.com/Corneyeski/AndroidCursoKotlin
+
+IDE
+============
+IntelliJ Community version.
+
+TIME
+============
+15 hours in a week.

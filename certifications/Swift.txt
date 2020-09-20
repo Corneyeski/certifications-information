@@ -1,0 +1,12 @@
+DESCRIPTION
+============
+Bootcamp designed to learn how to develop iOS applications, learning how to create an application, the basics of Swift 4, manage data and design the views
+
+REPOSITORIES
+============
+1- https://github.com/Corneyeski/MusicBootCampiOS first approach to iOS development
+2- https://github.com/Corneyeski/MandoBootcamp final application, a simulated AC with a remote controller and some functions depending on the satus
+
+TIME
+============
+40 hours in a week.
